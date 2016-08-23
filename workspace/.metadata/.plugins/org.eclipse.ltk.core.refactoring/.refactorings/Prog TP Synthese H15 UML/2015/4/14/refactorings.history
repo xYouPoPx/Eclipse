@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Prog TP Synthese H15 UML/model.uml&apos; to &apos;bibliotheque.uml&apos;" description="Rename resource &apos;model.uml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="model.uml" name="bibliotheque.uml" stamp="1427898120944" updateReferences="true"/>
+</session>

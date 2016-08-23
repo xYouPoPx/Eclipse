@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="148" key="DIALOG_X_ORIGIN"/>
+		<item value="25" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="526" key="dialogHeight"/>
+		<item value="1025" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.obeonetwork.dsl.uml2.wizard.newUmlModel" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.obeonetwork.dsl.uml2.design.category"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID"/>
+		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\YCourteau\Desktop"/>
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="443" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="org.eclipse.ui.views.ResourceNavigator" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="600" key="DIALOG_HEIGHT"/>
+		<item value="365" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.FileSystem" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="PROJECT_LOC" key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_NAME_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_VIRTUAL_FOLDERS_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_LINKS_IN_WORKSPACE_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_SELECTED_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/ui/view/trianglemenu"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/ui/adapter"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/ui"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/parametre"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/http/intercepteur"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/modele"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/http"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie/Controleur"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main/java/com/pam/codenamehippie"/>
+			<item value="/Volumes/INFO-MAC03/.Trashes/501/main"/>
+			<item value="C:\Users\YCourteau\workspace\Prog_TP_Synthese\src\modele"/>
+			<item value="C:\Users\YCourteau\AppData\Roaming\Skype\My Skype Received Files"/>
+			<item value="C:\Users\YCourteau\Google Drive\Collège Shawinigan\420-E6S-SW_Programmation_structuree\Lab 1\submissions"/>
+			<item value="C:\Users\YCourteau\Music"/>
+		</list>
+	</section>
+</section>

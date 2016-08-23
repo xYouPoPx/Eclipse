@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-153dc7c559c-689c016fbb4c858f" provider="mysql" driver="mysql5" name="MySQL - yolaine_yolainecourteau" create-date="1459693924009" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="127.0.0.1" port="3306" server="" database="yolaine_yolainecourteau" url="jdbc:mysql://127.0.0.1:3306/yolaine_yolainecourteau" user="yolaine_yolainec" password="CgsKIUhNQUJRSmbf" type="dev">
+			<property name="connectTimeout" value="20000"/>
+			<property name="@dbeaver-ssl@" value="false"/>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" user="" save-password="false">
+				<property name="socks-host" value=""/>
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="true" user="yolaine" save-password="true" password="Hy0qC1FzUCQrGgUUOQxWAEb2">
+				<property name="port" value="3306"/>
+				<property name="keyPath" value="/Users/ycourteau/.ssh/id_rsa"/>
+				<property name="host" value="s123.panelboxmanager.com"/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<bootstrap/>
+		</connection>
+	</data-source>
+	<data-source id="mysql5-153dcbc30c3-244b34f3ffc9b9bc" provider="mysql" driver="mysql5" name="MySQL - yolaine_yolainecourteau" create-date="1459697706066" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="127.0.0.1" port="3306" server="" database="yolaine_yolainecourteau" url="jdbc:mysql://127.0.0.1:3306/yolaine_yolainecourteau" user="yolaine_yolainec" password="CgsKIUhNQUJRSmbf" type="dev">
+			<property name="connectTimeout" value="20000"/>
+			<property name="@dbeaver-ssl@" value="false"/>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" user="" save-password="false">
+				<property name="socks-host" value=""/>
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="true" user="yolaine" save-password="true" password="Hy0qC1FzUCQrGgUUOQxWAEb2">
+				<property name="port" value="3306"/>
+				<property name="keyPath" value="/Users/ycourteau/.ssh/id_rsa"/>
+				<property name="host" value="s123.panelboxmanager.com"/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<bootstrap/>
+		</connection>
+	</data-source>
+</data-sources>

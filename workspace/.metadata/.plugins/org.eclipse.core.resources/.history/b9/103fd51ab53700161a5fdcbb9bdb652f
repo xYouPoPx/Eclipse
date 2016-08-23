@@ -1,0 +1,170 @@
+/**
+ * 
+ */
+package controleur;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+import controleur.Pret;
+import modele.Livre;
+import modele.Membre;
+import vue.Menu;
+
+/**
+ * @author BenB
+ *
+ */
+public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ArrayList<ArrayList<?>> mesObjets = new ArrayList<ArrayList<?>>();
+		ArrayList<Livre> listLivre = new ArrayList<Livre>();
+		ArrayList<Membre> listMembre = new ArrayList<Membre>();
+		ArrayList<Pret> listPret = new ArrayList<Pret>();
+		int menuSelect;
+		Scanner entree = new Scanner(System.in);
+
+		mesObjets = Fichier.OnLoad();
+
+		for (int i = 0; i < mesObjets.size(); i++) {
+
+			ArrayList<?> listObjets = new ArrayList<>();
+
+			listObjets = mesObjets.get(i);
+
+			switch (listObjets.get(i).getClass().getSimpleName()) {
+
+				case "Livre": {
+					listLivre = (ArrayList<Livre>) listObjets;
+					break;
+				}
+
+				case "Membre": {
+					listMembre = (ArrayList<Membre>) listObjets;
+					break;
+				}
+
+				case "Pret": {
+					listPret = (ArrayList<Pret>) listObjets;
+					break;
+				} 
+
+				default:
+					break;
+			}
+		}
+
+		menuSelect = Menu.menuPrincipal();
+
+		while (true) {
+
+			switch (menuSelect) {
+
+				case 1: {
+					System.out.println("***** Fonction à venir *****\n");
+					menuSelect = Menu.menuPrincipal();
+					break;
+				}
+
+				case 2: {
+					System.out.println("***** Fonction à venir *****\n");
+					menuSelect = Menu.menuPrincipal();
+					break;
+				}
+
+				case 3: {
+					System.out.println("***** Fonction à venir *****\n");
+					menuSelect = Menu.menuPrincipal();
+					break;
+				}
+
+				case 4: {
+					menuSelect = Menu.menuPret();
+
+					while (menuSelect != 4) {
+
+						switch (menuSelect) {
+
+							case 1: {
+								Pret pret = new Pret();
+								
+								menuSelect = Menu.menuPret();
+								break;
+							}
+
+							case 2: {
+								menuSelect = Menu.menuPretSupprimer();
+								while (menuSelect != 4) {
+									switch (menuSelect) {
+
+										case 1: {
+											System.out.println("***** Fonction à venir *****\n");
+											menuSelect = Menu.menuPretSupprimer();
+											break;
+										}
+
+										case 2: {
+											System.out.println("***** Fonction à venir *****\n");
+											menuSelect = Menu.menuPretSupprimer();
+											break;
+										}
+
+										case 3: {
+											System.out.println("***** Fonction à venir *****\n");
+											menuSelect = Menu.menuPretSupprimer();
+											break;
+										}
+
+										case 4: {
+											menuSelect = Menu.menuPret();
+											break;
+										}
+										default: {
+											System.out.println("Choix invalide, veuillez recommencer");
+											menuSelect = Menu.menuPretSupprimer();
+											break;
+										}
+									}
+								}
+							}
+
+							case 3: {
+								menuSelect = Menu.MenuPretModifierNoLivre(listPret);
+								break;
+							}
+
+							case 4: {
+								menuSelect = Menu.menuPrincipal();
+								break;
+							}
+							default: {
+								System.out.println("Choix invalide, veuillez recommencer");
+								menuSelect = Menu.menuPret();
+								break;
+							}
+
+						}
+
+					}
+					menuSelect = 0;
+					break;
+				}
+
+				case 5: {
+					System.exit(0);
+					break;
+				}
+				default: {
+					System.out.println("Choix invalide, veuillez recommencer");
+					menuSelect = Menu.menuPrincipal();
+				}
+			}
+		}
+	}
+
+}

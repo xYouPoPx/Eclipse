@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+package boucle;
+
+import java.util.Scanner;
+
+/**
+ * @author ycourteau
+ *
+ */
+public class boucleFor {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		int val;
+		int compt = 0;
+
+		Scanner scan = new Scanner(System.in);
+
+		
+		System.out.println("Entrez un nombre pour faire afficher sa table de multiplication");
+		val = scan.nextInt();
+/*		
+		while(compt <= 10){
+			System.out.println(val + " x " + compt + " = " + (val * compt));
+			compt++;
+		}
+	
+		for( compt = 0; compt <= 10; compt++){
+			System.out.println(val + " x " + compt + " = " + (val * compt));
+		}
+		System.out.println(compt);
+*/			
+		for(int i = 0; i <= 10; i++){
+			System.out.println(val + " x " + i + " = " + (val * i));
+		}
+		// System.out.println(i);
+	}
+
+}

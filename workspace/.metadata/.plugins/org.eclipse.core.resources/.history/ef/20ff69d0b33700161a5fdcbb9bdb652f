@@ -1,0 +1,178 @@
+/**
+ * 
+ */
+package controleur;
+
+import java.io.BufferedOutputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+import java.sql.Date;
+import java.time.LocalDate;
+import java.util.ArrayList;
+
+
+import modele.Livre;
+import modele.Membre;
+
+/**
+ * @author BenB
+ *
+ */
+public final class Fichier implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6249591207978158970L;
+
+	public static ArrayList<ArrayList<?>> OnLoad() {
+
+		ArrayList<ArrayList<?>> al = new ArrayList<ArrayList<?>>();
+		File folder = new File(System.getProperty("user.home") + "/bibliotheque");
+		File[] listOfFiles = folder.listFiles();
+
+		for (int i = 0; i < listOfFiles.length; i++) {
+
+			File file = listOfFiles[i];
+
+			if (file.isFile() & file.getName().endsWith("txt")) {
+
+				try { // ouverture fichier utilisateur
+
+					Object obj;
+					ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file));
+					obj = ois.readObject();
+					al.add((ArrayList<?>) obj);
+					ois.close();
+
+				} catch (Exception ex) {
+					// ex.printStackTrace();
+					System.err.println("Erreur de fichier. Fichier non trouvé ou inutilisable");
+				}
+
+			}
+
+		}
+		return al;
+	}
+
+	public static void ecriture(ArrayList<?> listObjets) {
+
+		ObjectOutputStream oos;
+		String type;
+		String path = "System.getProperty(\"user.home\") + \"/bibliotheque\"";
+		type = listObjets.getClass().getSimpleName();
+
+		try { // ouverture fichier utilisateur
+
+			oos = new ObjectOutputStream(
+					new BufferedOutputStream(new FileOutputStream(new File(path + "/" + type + ".txt"))));
+			oos.writeObject(listObjets);
+			oos.close();
+
+		} catch (Exception ex) {
+			// ex.printStackTrace();
+			System.err.println("Erreur de fichier. Fichier non trouvé ou inutilisable");
+		}
+
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Livre livre = new Livre();
+		Livre livre2 = new Livre();
+		ArrayList<Livre> listLivre = new ArrayList<Livre>();
+		livre.setId(1);
+		livre.setIsbn(6521);
+		livre.setTitre("Kiko moteur");
+		livre.setAuteur("Bob Pruneau");
+		livre.setEditeur("Editions Merveilles");
+		livre.setDateParution(Date.valueOf("1980-05-09"));
+		livre.setStatut(0);
+		livre.setNbrPages(119);
+		listLivre.add(livre);
+		livre2.setId(2);
+		livre2.setIsbn(4199);
+		livre2.setTitre("Le voilier magique");
+		livre2.setAuteur("Igor Poulatov");
+		livre2.setEditeur("Editions Saturnin");
+		livre2.setDateParution(Date.valueOf("1998-10-20"));
+		livre2.setStatut(0);
+		livre2.setNbrPages(244);
+		listLivre.add(livre2);
+		try { // ouverture fichier utilisateur
+
+			ObjectOutputStream oos = new ObjectOutputStream(new BufferedOutputStream(
+					new FileOutputStream(new File(System.getProperty("user.home") + "/Bibliotheque/Livre.txt"))));
+			oos.writeObject(listLivre);
+			oos.close();
+
+		} catch (Exception ex) {
+			// ex.printStackTrace();
+			System.err.println("Erreur de fichier. Fichier non trouvé ou inutilisable");
+		}
+
+		Membre membre = new Membre();
+		Membre membre2 = new Membre();
+		ArrayList<Membre> listMembre = new ArrayList<Membre>();
+		membre.setId(1);
+		membre.setNom("Bellemare");
+		membre.setPrenom("Benoit");
+		membre.setAdresse("125, rue toulouse, St-Boniface");
+		membre.setTelephone("819-537-0889");
+		membre.setStatut(0);
+		listMembre.add(membre);
+		membre2.setId(2);
+		membre2.setNom("Cloutier");
+		membre2.setPrenom("Amelie");
+		membre2.setAdresse("125, rue toulouse, St-Boniface");
+		membre2.setTelephone("819-537-0889");
+		membre2.setStatut(0);
+		listMembre.add(membre2);
+		try { // ouverture fichier utilisateur
+
+			ObjectOutputStream oos = new ObjectOutputStream(new BufferedOutputStream(
+					new FileOutputStream(new File(System.getProperty("user.home") + "/Bibliotheque/Membre.txt"))));
+			oos.writeObject(listMembre);
+			oos.close();
+
+		} catch (Exception ex) {
+			// ex.printStackTrace();
+			System.err.println("Erreur de fichier. Fichier non trouvé ou inutilisable");
+		}
+		
+		ArrayList<Pret> listPret = new ArrayList<Pret>();
+		LocalDate date = LocalDate.now();
+		Pret pret = new Pret();
+		pret.setDate_emprunt(date);
+		pret.setDate_retour(date.plusDays(21));
+		pret.setId(1);
+		pret.setLivre(livre);
+		pret.setMembre(membre);
+		listPret.add(pret);
+		
+		try { // ouverture fichier utilisateur
+
+			ObjectOutputStream oos = new ObjectOutputStream(new BufferedOutputStream(
+					new FileOutputStream(new File(System.getProperty("user.home") + "/Bibliotheque/Pret.txt"))));
+			oos.writeObject(listPret);
+			oos.close();
+
+		} catch (Exception ex) {
+			// ex.printStackTrace();
+			System.err.println("Erreur de fichier. Fichier non trouvé ou inutilisable");
+		}
+
+		OnLoad();
+
+	}
+
+}

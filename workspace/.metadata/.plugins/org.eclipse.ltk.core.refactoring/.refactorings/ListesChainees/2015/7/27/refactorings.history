@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;src.Liste&apos; to &apos;ListeChainee&apos;&#x0D;&#x0A;- Original project: &apos;ListesChainees&apos;&#x0D;&#x0A;- Original element: &apos;src.Liste&apos;&#x0D;&#x0A;- Renamed element: &apos;src.ListeChainee&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Liste&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;src{Liste.java[Liste" matchStrategy="1" name="ListeChainee" qualified="false" references="true" similarDeclarations="false" stamp="1435855359439" textual="false" version="1.0"/>
+</session>

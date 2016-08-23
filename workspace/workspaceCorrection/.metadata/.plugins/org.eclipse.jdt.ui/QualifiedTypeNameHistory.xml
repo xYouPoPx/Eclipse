@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="modele.BD"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="modele.Auteur"/>
+<fullyQualifiedTypeName name="modele.Dictionnaire"/>
+<fullyQualifiedTypeName name="modele.Bd"/>
+<fullyQualifiedTypeName name="modele.Editeur"/>
+<fullyQualifiedTypeName name="modele.Membre"/>
+<fullyQualifiedTypeName name="modele.Livre"/>
+<fullyQualifiedTypeName name="modele.Revue"/>
+<fullyQualifiedTypeName name="modele.Roman"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+</qualifiedTypeNameHistroy>

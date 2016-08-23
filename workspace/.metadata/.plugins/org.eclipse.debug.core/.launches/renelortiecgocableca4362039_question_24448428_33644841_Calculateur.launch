@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Prog 1.01 H15 Submissions/src/calculateur/renelortiecgocableca4362039_question_24448428_33644841_Calculateur.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="calculateur.renelortiecgocableca4362039_question_24448428_33644841_Calculateur"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Prog 1.01 H15 Submissions"/>
+</launchConfiguration>

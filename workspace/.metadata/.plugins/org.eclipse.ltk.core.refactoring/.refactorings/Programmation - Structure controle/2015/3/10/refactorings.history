@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;NombreDepart.java&apos; to &apos;Programmation - Structure controle/src/boucles&apos;&#x0D;&#x0A;- Original project: &apos;Programmation - Structure controle&apos;&#x0D;&#x0A;- Destination element: &apos;Programmation - Structure controle/src/boucles&apos;&#x0D;&#x0A;- Original element: &apos;boucles.NombreDepart.java&apos;" description="Copy compilation unit" destination="/src&lt;boucles" element1="/src&lt;boucles{NombreDepart.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1425585940047" units="1" version="1.0"/>
+</session>

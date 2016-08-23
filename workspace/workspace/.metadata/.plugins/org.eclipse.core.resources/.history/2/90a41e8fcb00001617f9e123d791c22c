@@ -1,0 +1,45 @@
+/**
+ * 
+ */
+package boucle;
+
+import java.util.Scanner;
+
+/**
+ * @author ycourteau
+ *
+ */
+public class boucleWhile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] tab = new int[10];
+		
+		int i = 0;
+		int taille = tab.length;
+		
+		// parcourir toutes les cellules du tableau
+		while(i <= taille - 1){
+			
+			// System.out.println("i = " + i + " taille = " + taille + " tab[" + i + "] = " + tab[i]);
+			tab[i] = i;
+			System.out.println("i = " + i + " taille = " + taille + " tab[" + i + "] = " + tab[i]);
+			// System.out.println(" tab[" + i +"] = " + tab[i]);
+			i++;
+			
+		}
+		
+		System.out.println("FIN");
+		
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Entrez un nombre entre 10 et 20 inclusivement :");
+		
+		
+
+	}
+
+}

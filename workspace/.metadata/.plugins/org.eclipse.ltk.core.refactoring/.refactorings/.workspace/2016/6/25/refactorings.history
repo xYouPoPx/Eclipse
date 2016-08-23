@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Benoit_Bellemare_Prog_Synth_H16&apos;" deleteContents="true" description="Delete resource &apos;Benoit_Bellemare_Prog_Synth_H16&apos;" element1="/Benoit_Bellemare_Prog_Synth_H16" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1466521349169"/>
+</session>

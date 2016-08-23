@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Shell {Edit Data Set - etudiant_cohorte_population_programme}/Shell {Report Design - testBirt/nombre_init_inscrit_population.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="986" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="SASHFORM.RIGHT"/>
+		<item value="160" key="SASHFORM.LEFT"/>
+		<item value="596" key="DIALOG_HEIGHT"/>
+		<item value="240" key="DIALOG_X_ORIGIN"/>
+		<item value="32" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Edit Data Source - Funio}/Shell {Report Design - testBirt/nombre_init_inscrit_population.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="SASHFORM.RIGHT"/>
+		<item value="160" key="SASHFORM.LEFT"/>
+		<item value="500" key="DIALOG_HEIGHT"/>
+		<item value="240" key="DIALOG_X_ORIGIN"/>
+		<item value="32" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Data Cube Builder}/Shell {Report Design - testBirt/nombre_init_inscrit_population.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="820" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="656" key="SASHFORM.RIGHT"/>
+		<item value="164" key="SASHFORM.LEFT"/>
+		<item value="600" key="DIALOG_HEIGHT"/>
+		<item value="230" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Edit Data Source - Funio}/Shell {Report Design - SIPECS/nombre_init_inscrit_population.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="SASHFORM.RIGHT"/>
+		<item value="160" key="SASHFORM.LEFT"/>
+		<item value="500" key="DIALOG_HEIGHT"/>
+		<item value="62" key="DIALOG_X_ORIGIN"/>
+		<item value="51" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Edit Data Set - etudiant_join_cohorte_join_population}/Shell {Report Design - testBirt/nombre_init_inscrit_population.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="SASHFORM.RIGHT"/>
+		<item value="160" key="SASHFORM.LEFT"/>
+		<item value="500" key="DIALOG_HEIGHT"/>
+		<item value="240" key="DIALOG_X_ORIGIN"/>
+		<item value="32" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Edit Data Set - dim_cohorte}/Shell {Report Design - SIPECS/nombre_init_inscrit.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="SASHFORM.RIGHT"/>
+		<item value="160" key="SASHFORM.LEFT"/>
+		<item value="500" key="DIALOG_HEIGHT"/>
+		<item value="240" key="DIALOG_X_ORIGIN"/>
+		<item value="32" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Data Cube Builder}/Shell {Report Design - SIPECS/nombre_init_inscrit.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="820" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="656" key="SASHFORM.RIGHT"/>
+		<item value="164" key="SASHFORM.LEFT"/>
+		<item value="600" key="DIALOG_HEIGHT"/>
+		<item value="230" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="Shell {Edit Data Set - dim_cohorte}/Shell {Report Design - SIPECS/nombre_init_inscrit_population.rptdesign - Eclipse - /Users/ycourteau/Google Drive/workspace}">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="SASHFORM.RIGHT"/>
+		<item value="160" key="SASHFORM.LEFT"/>
+		<item value="500" key="DIALOG_HEIGHT"/>
+		<item value="240" key="DIALOG_X_ORIGIN"/>
+		<item value="32" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

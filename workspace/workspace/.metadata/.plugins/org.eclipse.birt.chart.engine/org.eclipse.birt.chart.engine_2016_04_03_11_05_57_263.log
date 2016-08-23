@@ -1,0 +1,572 @@
+avr. 03, 2016 11:05:59 AM org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFOS: SWT Display Server: cocoa v4 528
+avr. 03, 2016 11:05:59 AM org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFOS: SWT Display Server: cocoa v4 528
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.R31Enhance <clinit>
+INFOS: Advanced SWT graphics functions enabled.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFOS: Using graphics context org.eclipse.swt.graphics.GC@GC {org.eclipse.swt.internal.cocoa.NSGraphicsContext{106102887234816}}
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.computation.withaxes.PlotWith2DAxes getMinMax
+INFOS: Processing stacked info for axis org.eclipse.birt.chart.model.component.impl.AxisImpl@500497e3 (type: Linear, titlePosition: Left, gapWidth: <unset>, orientation: Vertical, labelPosition: Left, staggered: <unset>, interval: <unset>, primaryAxis: true, categoryAxis: <unset>, percent: false, labelWithinAxes: <unset>, aligned: <unset>, sideBySide: <unset>, labelSpan: <unset>, axisPercent: <unset>)
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.render.EmptyWithAxes renderSeries
+INFOS: org.eclipse.birt.chart.render.EmptyWithAxes: renderSeries() [1/2]
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.extension.render.Bar renderSeries
+INFOS: org.eclipse.birt.chart.extension.render.Bar: renderSeries() [2/2]
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:01 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFOS: Using graphics context org.eclipse.swt.graphics.GC@GC {org.eclipse.swt.internal.cocoa.NSGraphicsContext{105553135560896}}
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.computation.withaxes.PlotWith2DAxes getMinMax
+INFOS: Processing stacked info for axis org.eclipse.birt.chart.model.component.impl.AxisImpl@7226747d (type: Linear, titlePosition: Left, gapWidth: <unset>, orientation: Vertical, labelPosition: Left, staggered: <unset>, interval: <unset>, primaryAxis: true, categoryAxis: <unset>, percent: false, labelWithinAxes: <unset>, aligned: <unset>, sideBySide: <unset>, labelSpan: <unset>, axisPercent: <unset>)
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.render.EmptyWithAxes renderSeries
+INFOS: org.eclipse.birt.chart.render.EmptyWithAxes: renderSeries() [1/2]
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.extension.render.Bar renderSeries
+INFOS: org.eclipse.birt.chart.extension.render.Bar: renderSeries() [2/2]
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:06:03 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:34 AM org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFOS: SWT Display Server: cocoa v4 528
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFOS: Using graphics context org.eclipse.swt.graphics.GC@GC {org.eclipse.swt.internal.cocoa.NSGraphicsContext{105553150292928}}
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.computation.withaxes.PlotWith2DAxes getMinMax
+INFOS: Processing stacked info for axis org.eclipse.birt.chart.model.component.impl.AxisImpl@bd9c170 (type: Linear, titlePosition: Left, gapWidth: <unset>, orientation: Vertical, labelPosition: Left, staggered: <unset>, interval: <unset>, primaryAxis: true, categoryAxis: <unset>, percent: false, labelWithinAxes: <unset>, aligned: <unset>, sideBySide: <unset>, labelSpan: <unset>, axisPercent: <unset>)
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.render.EmptyWithAxes renderSeries
+INFOS: org.eclipse.birt.chart.render.EmptyWithAxes: renderSeries() [1/2]
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.extension.render.Bar renderSeries
+INFOS: org.eclipse.birt.chart.extension.render.Bar: renderSeries() [2/2]
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFOS: Using graphics context org.eclipse.swt.graphics.GC@GC {org.eclipse.swt.internal.cocoa.NSGraphicsContext{105553150317760}}
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.computation.withaxes.PlotWith2DAxes getMinMax
+INFOS: Processing stacked info for axis org.eclipse.birt.chart.model.component.impl.AxisImpl@2a1c2d5d (type: Linear, titlePosition: Left, gapWidth: <unset>, orientation: Vertical, labelPosition: Left, staggered: <unset>, interval: <unset>, primaryAxis: true, categoryAxis: <unset>, percent: false, labelWithinAxes: <unset>, aligned: <unset>, sideBySide: <unset>, labelSpan: <unset>, axisPercent: <unset>)
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.render.EmptyWithAxes renderSeries
+INFOS: org.eclipse.birt.chart.render.EmptyWithAxes: renderSeries() [1/2]
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.extension.render.Bar renderSeries
+INFOS: org.eclipse.birt.chart.extension.render.Bar: renderSeries() [2/2]
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 11:44:35 AM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:50 PM org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider prepareRowExpressionEvaluator
+AVERTISSEMENT: Exception
+org.eclipse.birt.report.data.adapter.api.AdapterException: An exception occurred during processing. Please see the following message for details:
+exception.error
+Error happens when create hierarchy:gr_population.NewTabularHierarchy.
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.execute(DataRequestSessionImpl.java:671)
+	at org.eclipse.birt.chart.reportitem.ui.DteAdapter.executeQuery(DteAdapter.java:237)
+	at org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider.executeCubeQuery(ReportDataServiceProvider.java:2088)
+	at org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider.createCubeEvaluator(ReportDataServiceProvider.java:2055)
+	at org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider.prepareRowExpressionEvaluator(ReportDataServiceProvider.java:1597)
+	at org.eclipse.birt.chart.ui.util.ChartUIUtil.doLivePreview(ChartUIUtil.java:588)
+	at org.eclipse.birt.chart.ui.util.ChartUIUtil.prepareLivePreview(ChartUIUtil.java:1778)
+	at org.eclipse.birt.chart.ui.swt.wizard.TaskSelectType$5.run(TaskSelectType.java:2004)
+	at org.eclipse.birt.chart.ui.swt.wizard.preview.ChartLivePreviewThread.run(ChartLivePreviewThread.java:200)
+Caused by: org.eclipse.birt.data.engine.core.DataException: exception.error
+Error happens when create hierarchy:gr_population.NewTabularHierarchy.
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.materializeCube(DataRequestSessionImpl.java:802)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.execute(DataRequestSessionImpl.java:660)
+	... 8 more
+Caused by: org.eclipse.birt.report.data.adapter.api.AdapterException: Error happens when create hierarchy:gr_population.NewTabularHierarchy.
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.populateDimension(DataRequestSessionImpl.java:1501)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.populateDimensions(DataRequestSessionImpl.java:1359)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.createCube(DataRequestSessionImpl.java:853)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.materializeCube(DataRequestSessionImpl.java:787)
+	... 9 more
+Caused by: org.eclipse.birt.report.data.adapter.api.AdapterException: Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataSetIterator.executeQuery(DataSetIterator.java:92)
+	at org.eclipse.birt.report.data.adapter.impl.DataSetIterator.<init>(DataSetIterator.java:125)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.populateDimension(DataRequestSessionImpl.java:1486)
+	... 12 more
+Caused by: org.eclipse.birt.data.engine.odaconsumer.OdaDataException: Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.data.engine.odaconsumer.ExceptionHandler.newException(ExceptionHandler.java:54)
+	at org.eclipse.birt.data.engine.odaconsumer.ConnectionManager.openConnection(ConnectionManager.java:177)
+	at org.eclipse.birt.data.engine.executor.DataSource.newConnection(DataSource.java:224)
+	at org.eclipse.birt.data.engine.executor.DataSource.open(DataSource.java:212)
+	at org.eclipse.birt.data.engine.impl.DataSourceRuntime.openOdiDataSource(DataSourceRuntime.java:217)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.openDataSource(QueryExecutor.java:437)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:325)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedOdaDSQuery.execute(PreparedOdaDSQuery.java:179)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:557)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:495)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.access$2(PreparedJointDataSourceQuery.java:493)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery$JointDataSetQueryExecutor.createOdiQuery(PreparedJointDataSourceQuery.java:589)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:333)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:557)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:495)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.access$2(PreparedJointDataSourceQuery.java:493)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery$JointDataSetQueryExecutor.createOdiQuery(PreparedJointDataSourceQuery.java:589)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:333)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:557)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:495)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.access$2(PreparedJointDataSourceQuery.java:493)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery$JointDataSetQueryExecutor.createOdiQuery(PreparedJointDataSourceQuery.java:589)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:333)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:142)
+	at org.eclipse.birt.report.data.adapter.impl.DataSetIterator.executeQuery(DataSetIterator.java:87)
+	... 14 more
+Caused by: org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.oda.jdbc.JDBCDriverManager.doConnect(JDBCDriverManager.java:339)
+	at org.eclipse.birt.report.data.oda.jdbc.JDBCDriverManager.getConnection(JDBCDriverManager.java:236)
+	at org.eclipse.birt.report.data.oda.jdbc.Connection.connectByUrl(Connection.java:254)
+	at org.eclipse.birt.report.data.oda.jdbc.Connection.open(Connection.java:163)
+	at org.eclipse.datatools.connectivity.oda.consumer.helper.OdaConnection.open(OdaConnection.java:250)
+	at org.eclipse.birt.data.engine.odaconsumer.ConnectionManager.openConnection(ConnectionManager.java:165)
+	... 53 more
+
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFOS: SWT Display Server: cocoa v4 528
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFOS: Using graphics context org.eclipse.swt.graphics.GC@GC {org.eclipse.swt.internal.cocoa.NSGraphicsContext{105553152328704}}
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.computation.withaxes.PlotWith2DAxes getMinMax
+INFOS: Processing stacked info for axis org.eclipse.birt.chart.model.component.impl.AxisImpl@114f9b35 (type: Linear, titlePosition: Left, gapWidth: <unset>, orientation: Vertical, labelPosition: Left, staggered: <unset>, interval: <unset>, primaryAxis: true, categoryAxis: <unset>, percent: false, labelWithinAxes: <unset>, aligned: <unset>, sideBySide: <unset>, labelSpan: <unset>, axisPercent: <unset>)
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.render.EmptyWithAxes renderSeries
+INFOS: org.eclipse.birt.chart.render.EmptyWithAxes: renderSeries() [1/2]
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.extension.render.Bar renderSeries
+INFOS: org.eclipse.birt.chart.extension.render.Bar: renderSeries() [2/2]
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:51 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:53 PM org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider prepareRowExpressionEvaluator
+AVERTISSEMENT: Exception
+org.eclipse.birt.report.data.adapter.api.AdapterException: An exception occurred during processing. Please see the following message for details:
+exception.error
+Error happens when create hierarchy:gr_population.NewTabularHierarchy.
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.execute(DataRequestSessionImpl.java:671)
+	at org.eclipse.birt.chart.reportitem.ui.DteAdapter.executeQuery(DteAdapter.java:237)
+	at org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider.executeCubeQuery(ReportDataServiceProvider.java:2088)
+	at org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider.createCubeEvaluator(ReportDataServiceProvider.java:2055)
+	at org.eclipse.birt.chart.reportitem.ui.ReportDataServiceProvider.prepareRowExpressionEvaluator(ReportDataServiceProvider.java:1597)
+	at org.eclipse.birt.chart.ui.util.ChartUIUtil.doLivePreview(ChartUIUtil.java:588)
+	at org.eclipse.birt.chart.ui.util.ChartUIUtil.prepareLivePreview(ChartUIUtil.java:1778)
+	at org.eclipse.birt.chart.ui.swt.wizard.TaskSelectData$1.run(TaskSelectData.java:840)
+	at org.eclipse.birt.chart.ui.swt.wizard.preview.ChartLivePreviewThread.run(ChartLivePreviewThread.java:200)
+Caused by: org.eclipse.birt.data.engine.core.DataException: exception.error
+Error happens when create hierarchy:gr_population.NewTabularHierarchy.
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.materializeCube(DataRequestSessionImpl.java:802)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.execute(DataRequestSessionImpl.java:660)
+	... 8 more
+Caused by: org.eclipse.birt.report.data.adapter.api.AdapterException: Error happens when create hierarchy:gr_population.NewTabularHierarchy.
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.populateDimension(DataRequestSessionImpl.java:1501)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.populateDimensions(DataRequestSessionImpl.java:1359)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.createCube(DataRequestSessionImpl.java:853)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.materializeCube(DataRequestSessionImpl.java:787)
+	... 9 more
+Caused by: org.eclipse.birt.report.data.adapter.api.AdapterException: Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.adapter.impl.DataSetIterator.executeQuery(DataSetIterator.java:92)
+	at org.eclipse.birt.report.data.adapter.impl.DataSetIterator.<init>(DataSetIterator.java:125)
+	at org.eclipse.birt.report.data.adapter.impl.DataRequestSessionImpl.populateDimension(DataRequestSessionImpl.java:1486)
+	... 12 more
+Caused by: org.eclipse.birt.data.engine.odaconsumer.OdaDataException: Cannot open the connection for the driver: org.eclipse.birt.report.data.oda.jdbc.
+    org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.data.engine.odaconsumer.ExceptionHandler.newException(ExceptionHandler.java:54)
+	at org.eclipse.birt.data.engine.odaconsumer.ConnectionManager.openConnection(ConnectionManager.java:177)
+	at org.eclipse.birt.data.engine.executor.DataSource.newConnection(DataSource.java:224)
+	at org.eclipse.birt.data.engine.executor.DataSource.open(DataSource.java:212)
+	at org.eclipse.birt.data.engine.impl.DataSourceRuntime.openOdiDataSource(DataSourceRuntime.java:217)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.openDataSource(QueryExecutor.java:437)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:325)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedOdaDSQuery.execute(PreparedOdaDSQuery.java:179)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:557)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:495)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.access$2(PreparedJointDataSourceQuery.java:493)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery$JointDataSetQueryExecutor.createOdiQuery(PreparedJointDataSourceQuery.java:589)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:333)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:557)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:495)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.access$2(PreparedJointDataSourceQuery.java:493)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery$JointDataSetQueryExecutor.createOdiQuery(PreparedJointDataSourceQuery.java:589)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:333)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:557)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.populatePreparedQuery(PreparedJointDataSourceQuery.java:495)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery.access$2(PreparedJointDataSourceQuery.java:493)
+	at org.eclipse.birt.data.engine.impl.PreparedJointDataSourceQuery$JointDataSetQueryExecutor.createOdiQuery(PreparedJointDataSourceQuery.java:589)
+	at org.eclipse.birt.data.engine.impl.QueryExecutor.prepareExecution(QueryExecutor.java:333)
+	at org.eclipse.birt.data.engine.impl.PreparedQuery.doPrepare(PreparedQuery.java:463)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.produceQueryResults(PreparedDataSourceQuery.java:190)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:178)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:159)
+	at org.eclipse.birt.data.engine.impl.PreparedDataSourceQuery.execute(PreparedDataSourceQuery.java:142)
+	at org.eclipse.birt.report.data.adapter.impl.DataSetIterator.executeQuery(DataSetIterator.java:87)
+	... 14 more
+Caused by: org.eclipse.birt.report.data.oda.jdbc.JDBCException: There is an error in get connection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server..
+	at org.eclipse.birt.report.data.oda.jdbc.JDBCDriverManager.doConnect(JDBCDriverManager.java:339)
+	at org.eclipse.birt.report.data.oda.jdbc.JDBCDriverManager.getConnection(JDBCDriverManager.java:236)
+	at org.eclipse.birt.report.data.oda.jdbc.Connection.connectByUrl(Connection.java:254)
+	at org.eclipse.birt.report.data.oda.jdbc.Connection.open(Connection.java:163)
+	at org.eclipse.datatools.connectivity.oda.consumer.helper.OdaConnection.open(OdaConnection.java:250)
+	at org.eclipse.birt.data.engine.odaconsumer.ConnectionManager.openConnection(ConnectionManager.java:165)
+	... 53 more
+
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFOS: SWT Display Server: cocoa v4 528
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFOS: Using graphics context org.eclipse.swt.graphics.GC@GC {org.eclipse.swt.internal.cocoa.NSGraphicsContext{106102906127232}}
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.computation.withaxes.PlotWith2DAxes getMinMax
+INFOS: Processing stacked info for axis org.eclipse.birt.chart.model.component.impl.AxisImpl@3d13f15d (type: Linear, titlePosition: Left, gapWidth: <unset>, orientation: Vertical, labelPosition: Left, staggered: <unset>, interval: <unset>, primaryAxis: true, categoryAxis: <unset>, percent: false, labelWithinAxes: <unset>, aligned: <unset>, sideBySide: <unset>, labelSpan: <unset>, axisPercent: <unset>)
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.render.EmptyWithAxes renderSeries
+INFOS: org.eclipse.birt.chart.render.EmptyWithAxes: renderSeries() [1/2]
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.extension.render.Bar renderSeries
+INFOS: org.eclipse.birt.chart.extension.render.Bar: renderSeries() [2/2]
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.
+avr. 03, 2016 12:16:54 PM org.eclipse.birt.chart.device.swt.SwtRendererImpl enableInteraction
+INFOS: Cannot enable interaction if an IUpdateNotifier is not associated with the renderer.

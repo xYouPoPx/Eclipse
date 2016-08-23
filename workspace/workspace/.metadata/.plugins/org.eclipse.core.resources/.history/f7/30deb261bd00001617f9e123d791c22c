@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package boucle;
+
+/**
+ * @author ycourteau
+ *
+ */
+public class boucleWhile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] tab = new int[10];
+		
+		int i;
+		int taille = tab.length;
+		
+		//while(){
+			
+		//}
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Prog_TP_Synthese/src/controleur/Fichier(1).java&apos; to &apos;Fichier1.java&apos;" description="Rename resource &apos;Fichier(1).java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/controleur/Fichier(1).java" name="Fichier1.java" stamp="1430504924602" updateReferences="true"/>
+</session>

@@ -1,0 +1,104 @@
+package vue;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+public final class Menu {
+
+	static Scanner scanner = new Scanner(System.in);
+	static int menuSelect = 0;
+
+	public static int MenuPrincipal() {
+
+		System.out.println("******************** BIBLIOTHEQUE ********************");
+		System.out.println("*                                                    *");
+		System.out.println("* 1 - Membres                                        *");
+		System.out.println("* 2 - Livres                                         *");
+		System.out.println("* 3 - Reservation                                    *");
+		System.out.println("* 4 - Pret                                           *");
+		System.out.println("* 5 - Quitter                                        *");
+		System.out.println("*                                                    *");
+		System.out.println("******************************************************");
+		System.out.print("VOTRE CHOIX: ");
+
+		menuSelect = scanner.nextInt();
+		
+		return menuSelect;
+		
+	}
+	
+	public static int MenuMembre(){
+		
+		System.out.println("*********************** Membres **********************");
+		System.out.println("*                                                    *");
+		System.out.println("* 1 - Ajouter                                        *");
+		System.out.println("* 2 - Supprimer                                      *");
+		System.out.println("* 3 - Modifier                                       *");
+		System.out.println("* 4 - Retour au menu principal                       *");
+		System.out.println("*                                                    *");
+		System.out.println("******************************************************");
+		System.out.print("VOTRE CHOIX: ");
+
+		menuSelect = scanner.nextInt();
+		
+		return menuSelect;
+	}
+	
+	public static int MenuLivre(){
+		
+		System.out.println("*********************** Livres **********************");
+		System.out.println("*                                                    *");
+		System.out.println("* 1 - Ajouter                                        *");
+		System.out.println("* 2 - Supprimer                                      *");
+		System.out.println("* 3 - Modifier                                       *");
+		System.out.println("* 4 - Retour au menu principal                       *");
+		System.out.println("*                                                    *");
+		System.out.println("******************************************************");
+		System.out.print("VOTRE CHOIX: ");
+
+		menuSelect = scanner.nextInt();
+		
+		return menuSelect;
+	}
+	
+	public static int MenuReservation(){
+		
+		System.out.println("********************* Reservation ********************");
+		System.out.println("*                                                    *");
+		System.out.println("* 1 - Ajouter                                        *");
+		System.out.println("* 2 - Supprimer                                      *");
+		System.out.println("* 3 - Modifier                                       *");
+		System.out.println("* 4 - Retour au menu principal                       *");
+		System.out.println("*                                                    *");
+		System.out.println("******************************************************");
+		System.out.print("VOTRE CHOIX: ");
+
+		menuSelect = scanner.nextInt();
+		
+		return menuSelect;
+	}
+	
+	public static int MenuReservationSupprimer(){
+		
+		System.out.println("*************** Reservation - Supprimer **************");
+		System.out.println("*                                                    *");
+		System.out.println("* 1 - Par numéro de réservation                      *");
+		System.out.println("* 2 - Par numéro de membre                           *");
+		System.out.println("* 3 - Afficher liste                                 *");
+		System.out.println("* 4 - Retour au menu Reservation                     *");
+		System.out.println("*                                                    *");
+		System.out.println("******************************************************");
+		System.out.print("VOTRE CHOIX: ");
+
+		menuSelect = scanner.nextInt();
+		
+		return menuSelect;
+	}
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

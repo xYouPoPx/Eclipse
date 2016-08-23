@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/boubakarzerboyahooca_5139788_42765706_monProjetInfographie-1/src/monPackageInfographie/Main.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="monPackageInfographie.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="boubakarzerboyahooca_5139788_42765706_monProjetInfographie-1"/>
+</launchConfiguration>

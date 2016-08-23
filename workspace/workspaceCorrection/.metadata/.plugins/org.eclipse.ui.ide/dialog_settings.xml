@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/ycourteau/Downloads"/>
+			<item value="/Users/ycourteau/Downloads/submissions/infographie"/>
+			<item value="/Users/ycourteau/Downloads/submissions/AnthonyBourassa_Algo_Synth_H15"/>
+			<item value="/Users/ycourteau/Downloads/submissions(1)/JeuRecompensePouvoir"/>
+			<item value="/Users/ycourteau/Downloads/submissions(1)/jeuEnLigne"/>
+			<item value="/Users/ycourteau/Downloads/submissions(1)/Jeu"/>
+			<item value="/Users/ycourteau/Downloads/Olivier_Beaulieu_CalculDeterminant"/>
+			<item value="/Users/ycourteau/Downloads/Mathieu_Tardif_TP_CalculDeterminant"/>
+			<item value="/Users/ycourteau/Downloads/Kelly_Dufour_Matrice"/>
+			<item value="/Users/ycourteau/Downloads/Karim_Merri_TPCalculDeterminantMatrix"/>
+			<item value="/Users/ycourteau/Downloads/Odette_Savard_Matrice"/>
+			<item value="/Users/ycourteau/Downloads/Ismael_Degila_DevoirAlgo"/>
+			<item value="/Users/ycourteau/Downloads/Boubakar_Zerbo_MonProjetMatrice"/>
+			<item value="/Users/ycourteau/Downloads/Benoit_Bellemare_determinantMatrice"/>
+			<item value="/Users/ycourteau/Downloads/Benoit_Arsenault_Evaluation 2"/>
+			<item value="/Users/ycourteau/Downloads/Antoine_Hebert_Matrice"/>
+			<item value="/Users/ycourteau/Downloads/Anthony_Bourassa_matrice"/>
+			<item value="C:\Users\YCourteau\Google Drive\Collège Shawinigan\420-E6S-SW_Programmation_structuree\H15\TP_Synthèse\CORRECTION\submissions"/>
+			<item value="C:\Users\YCourteau\workspace\workspaceCorrection"/>
+			<item value="C:\Users\YCourteau\Google Drive\Collège Shawinigan\420-E6S-SW_Programmation_structuree\H15\Exam2\submissions"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="658" key="DIALOG_X_ORIGIN"/>
+		<item value="341" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

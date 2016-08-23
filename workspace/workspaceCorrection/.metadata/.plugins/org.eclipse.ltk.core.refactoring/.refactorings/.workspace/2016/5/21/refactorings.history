@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="true" description="Delete 8 resources" element1="/DJobinCatherine_Prog_Synth_H15" element2="/JolyEric_Prog_Synth_H15" element3="/Lachance_PA_Prog_Synth_H15" element4="/LavergneJoel_Prog_Synth_H15" element5="/LiYongshun_Prog_Synth_H15" element6="/LortieRené_Prog_Synth_H15" element7="/NoelJF_Prog_Synth_H15" element8="/StLouisCarl_Prog_Synth_H2015" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1464113981410"/>
+</session>

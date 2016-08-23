@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;tableaux.TableauxRecherche&apos; to &apos;TableauxTriRecherche&apos;&#x0D;&#x0A;- Original project: &apos;Tableaux&apos;&#x0D;&#x0A;- Original element: &apos;tableaux.TableauxRecherche&apos;&#x0D;&#x0A;- Renamed element: &apos;tableaux.TableauxTriRecherche&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TableauxRecherche&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;tableaux{TableauxRecherche.java[TableauxRecherche" matchStrategy="1" name="TableauxTriRecherche" qualified="false" references="true" similarDeclarations="false" stamp="1433596625153" textual="false" version="1.0"/>
+</session>

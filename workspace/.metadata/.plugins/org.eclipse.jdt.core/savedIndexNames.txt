@@ -1,0 +1,13 @@
+INDEX VERSION 1.127+/Volumes/INFO-MAC03/workspace/.metadata/.plugins/org.eclipse.jdt.core
+2978500680.index
+3781496598.index
+3335729223.index
+1161367791.index
+392758583.index
+869951342.index
+3979291366.index
+3973392881.index
+1147640227.index
+117221830.index
+2919986017.index
+3524271652.index
